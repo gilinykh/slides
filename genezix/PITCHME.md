@@ -40,7 +40,7 @@
 
 ![Заказ - контексты](order-page-contexts.png)
 ![Управление - контексты](manage-page-contexts.png)
-![Настройки - контексты](profile-page-contexts.png)
+![Настройки - контексты](profile-page-context.png)
 
 ---
 
