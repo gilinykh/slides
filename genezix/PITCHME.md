@@ -2,9 +2,9 @@
 
 ---
 
-order-page.png
-manage-page.png
-profile-page.png
+![Заказ](order-page.png)
+![Управление](manage-page.png)
+![Настройки](profile-page.png)
 
 ---
 
@@ -38,21 +38,21 @@ profile-page.png
 
 ---
 
-order-page-contexts.png
-manage-page-contexts.png
-profile-page-contexts.png
+![Заказ - контексты](order-page-contexts.png)
+![Управление - контексты](manage-page-contexts.png)
+![Настройки - контексты](profile-page-contexts.png)
 
 ---
 
-components.svg
+![Контексты](components.svg)
 
 ---
 
-auth-classes.svg
-catalog-classes.svg
-inventory-classes.svg
-orders-classes.svg
-vms-classes.svg
+![Идентификация и авторизация](auth-classes.svg)
+![Каталог](catalog-classes.svg)
+![Запасы](inventory-classes.svg)
+![Заказы](orders-classes.svg)
+![Хостинг](vms-classes.svg)
 
 ---
 
