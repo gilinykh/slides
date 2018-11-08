@@ -29,11 +29,11 @@
 
 --- 
 
-![Заказ](https://github.com/gilinykh/slides/raw/master/genezix/order-page.png)
+![Заказ](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/order-page.png)
 ---
-![Управление](https://github.com/gilinykh/slides/raw/master/genezix/manage-page.png)
+![Управление](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/manage-page.png)
 ---
-![Настройки](https://github.com/gilinykh/slides/raw/master/genezix/profile-page.png)
+![Настройки](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/profile-page.png)
 
 ---
 
@@ -71,23 +71,23 @@
 
 ---
 
-![Заказ - контексты](https://github.com/gilinykh/slides/raw/master/genezix/order-page-contexts.png)
+![Заказ - контексты](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/order-page-contexts.png)
 ---
-![Управление - контексты](https://github.com/gilinykh/slides/raw/master/genezix/manage-page-contexts.png)
+![Управление - контексты](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/manage-page-contexts.png)
 ---
-![Настройки - контексты](https://github.com/gilinykh/slides/raw/master/genezix/profile-page-context.png)
+![Настройки - контексты](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/profile-page-context.png)
 
 ---
 
-![Контексты](https://github.com/gilinykh/slides/blob/master/genezix/components.svg?sanitize=true)
+![Контексты](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/components.svg?sanitize=true)
 
 ---
 
-![Идентификация и авторизация](https://github.com/gilinykh/slides/raw/master/genezix/auth-classes.svg?sanitize=true)
-![Каталог](https://github.com/gilinykh/slides/raw/master/genezix/catalog-classes.svg?sanitize=true)
-![Запасы](https://github.com/gilinykh/slides/raw/master/genezix/inventory-classes.svg?sanitize=true)
-![Заказы](https://github.com/gilinykh/slides/raw/master/genezix/orders-classes.svg?sanitize=true)
-![Хостинг](https://github.com/gilinykh/slides/raw/master/genezix/vms-classes.svg?sanitize=true)
+![Идентификация и авторизация](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/auth-classes.svg?sanitize=true)
+![Каталог](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/catalog-classes.svg?sanitize=true)
+![Запасы](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/inventory-classes.svg?sanitize=true)
+![Заказы](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/orders-classes.svg?sanitize=true)
+![Хостинг](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/vms-classes.svg?sanitize=true)
 
 ---
 
