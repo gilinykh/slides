@@ -79,7 +79,7 @@
 
 ---
 
-![Контексты](genezix/components.svg)
+![Контексты](https://github.com/gilinykh/slides/blob/master/genezix/components.svg)
 
 ---
 
