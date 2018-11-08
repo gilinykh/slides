@@ -29,11 +29,11 @@
 
 --- 
 
-![Заказ](https://github.com/gilinykh/slides/blob/master/genezix/order-page.png)
+![Заказ](https://github.com/gilinykh/slides/raw/master/genezix/order-page.png)
 ---
-![Управление](https://github.com/gilinykh/slides/blob/master/genezix/manage-page.png)
+![Управление](https://github.com/gilinykh/slides/raw/master/genezix/manage-page.png)
 ---
-![Настройки](https://github.com/gilinykh/slides/blob/master/genezix/profile-page.png)
+![Настройки](https://github.com/gilinykh/slides/raw/master/genezix/profile-page.png)
 
 ---
 
@@ -71,11 +71,11 @@
 
 ---
 
-![Заказ - контексты](https://github.com/gilinykh/slides/blob/master/genezix/order-page-contexts.png)
+![Заказ - контексты](https://github.com/gilinykh/slides/raw/master/genezix/order-page-contexts.png)
 ---
-![Управление - контексты](https://github.com/gilinykh/slides/blob/master/genezix/manage-page-contexts.png)
+![Управление - контексты](https://github.com/gilinykh/slides/raw/master/genezix/manage-page-contexts.png)
 ---
-![Настройки - контексты](https://github.com/gilinykh/slides/blob/master/genezix/profile-page-context.png)
+![Настройки - контексты](https://github.com/gilinykh/slides/raw/master/genezix/profile-page-context.png)
 
 ---
 
@@ -83,18 +83,18 @@
 
 ---
 
-![Идентификация и авторизация](https://github.com/gilinykh/slides/blob/master/genezix/auth-classes.svg)
-![Каталог](https://github.com/gilinykh/slides/blob/master/genezix/catalog-classes.svg)
-![Запасы](https://github.com/gilinykh/slides/blob/master/genezix/inventory-classes.svg)
-![Заказы](https://github.com/gilinykh/slides/blob/master/genezix/orders-classes.svg)
-![Хостинг](https://github.com/gilinykh/slides/blob/master/genezix/vms-classes.svg)
+![Идентификация и авторизация](https://github.com/gilinykh/slides/raw/master/genezix/auth-classes.svg)
+![Каталог](https://github.com/gilinykh/slides/raw/master/genezix/catalog-classes.svg)
+![Запасы](https://github.com/gilinykh/slides/raw/master/genezix/inventory-classes.svg)
+![Заказы](https://github.com/gilinykh/slides/raw/master/genezix/orders-classes.svg)
+![Хостинг](https://github.com/gilinykh/slides/raw/master/genezix/vms-classes.svg)
 
 ---
 
 Архитектурные принципы
 
 ---
-
+@size[0.5em](
 1. Дешёвая модуляризация за счет выделения в отдельные пакеты ограниченных контекстов.
 2. Взаимодействие между ограниченными контекстами только через интерфейсы.
 3. Только ссылочные связи между классами доменной модели разных модулей (например, UserId)
@@ -104,7 +104,7 @@
 7. Деление сервисов на основные и вспомогательные. Вспомогательные сервисы инъектируются в основные, но не наоборот (например mailService в personManager, а не наоборот)
 8. Репозитории вместо ДАО
 9. Для разработки UI не должен требоваться бэкенд. Использовать json-server / in-memory-web-api
-
+)
 ---
 
 Вопросы?
