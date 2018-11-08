@@ -29,11 +29,11 @@
 
 --- 
 
-![Заказ](genezix/order-page.png)
+![Заказ](https://github.com/gilinykh/slides/blob/master/genezix/order-page.png)
 ---
-![Управление](genezix/manage-page.png)
+![Управление](https://github.com/gilinykh/slides/blob/master/genezix/manage-page.png)
 ---
-![Настройки](genezix/profile-page.png)
+![Настройки](https://github.com/gilinykh/slides/blob/master/genezix/profile-page.png)
 
 ---
 
@@ -71,11 +71,11 @@
 
 ---
 
-![Заказ - контексты](genezix/order-page-contexts.png)
+![Заказ - контексты](https://github.com/gilinykh/slides/blob/master/genezix/order-page-contexts.png)
 ---
-![Управление - контексты](genezix/manage-page-contexts.png)
+![Управление - контексты](https://github.com/gilinykh/slides/blob/master/genezix/manage-page-contexts.png)
 ---
-![Настройки - контексты](genezix/profile-page-context.png)
+![Настройки - контексты](https://github.com/gilinykh/slides/blob/master/genezix/profile-page-context.png)
 
 ---
 
@@ -83,11 +83,11 @@
 
 ---
 
-![Идентификация и авторизация](genezix/auth-classes.svg)
-![Каталог](genezix/catalog-classes.svg)
-![Запасы](genezix/inventory-classes.svg)
-![Заказы](genezix/orders-classes.svg)
-![Хостинг](genezix/vms-classes.svg)
+![Идентификация и авторизация](https://github.com/gilinykh/slides/blob/master/genezix/auth-classes.svg)
+![Каталог](https://github.com/gilinykh/slides/blob/master/genezix/catalog-classes.svg)
+![Запасы](https://github.com/gilinykh/slides/blob/master/genezix/inventory-classes.svg)
+![Заказы](https://github.com/gilinykh/slides/blob/master/genezix/orders-classes.svg)
+![Хостинг](https://github.com/gilinykh/slides/blob/master/genezix/vms-classes.svg)
 
 ---
 
