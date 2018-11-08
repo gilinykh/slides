@@ -83,11 +83,11 @@
 
 ---
 
-![Идентификация и авторизация](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/auth-classes.svg?sanitize=true)
-![Каталог](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/catalog-classes.svg?sanitize=true)
-![Запасы](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/inventory-classes.svg?sanitize=true)
-![Заказы](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/orders-classes.svg?sanitize=true)
-![Хостинг](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/vms-classes.svg?sanitize=true)
+![Идентификация и авторизация](https://github.com/gilinykh/slides/raw/master/genezix/auth-classes.svg?sanitize=true)
+![Каталог](https://github.com/gilinykh/slides/raw/master/genezix/catalog-classes.svg?sanitize=true)
+![Запасы](https://github.com/gilinykh/slides/raw/master/genezix/inventory-classes.svg?sanitize=true)
+![Заказы](https://github.com/gilinykh/slides/raw/master/genezix/orders-classes.svg?sanitize=true)
+![Хостинг](https://github.com/gilinykh/slides/raw/master/genezix/vms-classes.svg?sanitize=true)
 
 ---
 
