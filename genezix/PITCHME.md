@@ -79,7 +79,7 @@
 
 ---
 
-![Контексты](https://raw.githubusercontent.com/gilinykh/slides/master/genezix/components.svg?sanitize=true)
+![Контексты](https://github.com/gilinykh/slides/raw/master/genezix/components.svg?sanitize=true)
 
 ---
 
