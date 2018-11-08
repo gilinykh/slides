@@ -30,7 +30,9 @@
 --- 
 
 ![Заказ](genezix/order-page.png)
+---
 ![Управление](genezix/manage-page.png)
+---
 ![Настройки](genezix/profile-page.png)
 
 ---
@@ -70,7 +72,9 @@
 ---
 
 ![Заказ - контексты](genezix/order-page-contexts.png)
+---
 ![Управление - контексты](genezix/manage-page-contexts.png)
+---
 ![Настройки - контексты](genezix/profile-page-context.png)
 
 ---
